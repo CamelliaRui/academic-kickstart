@@ -21,18 +21,19 @@ bio:
 
 interests:
 - Genetic Epidemiology
+- Population Genetics, Statistical Genetics
 - Biostatistics
-
+- Bioinformatics
 
 education:
   courses:
- 
-  - course: Math B.A.
-    institution: University of Southern California
-    year: 2019-2021
-  - course: Biochemistry B.S. Nutritional Science B.S.
+  - course: Biostatistics M.S.
     institution: University of Wisconsin-Madison(transferred out)
-    year: 2017-2019
+    year: 2020-2022
+  - course: Mathematics B.A.
+    institution: University of Southern California
+    year: 2019-2022
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,9 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:crui@usc.edu"  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/camellia_rui
 
 - icon: linkedin
   icon_pack: fab
@@ -69,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-A math major undergraduate who wants to work in the health science. Fearing of the Wisconsin's cold as well as fearing of debugging the code. Loving matcha ice creams as well as loving Bayes. Interested in biostatistics and genetic epidemiology. Previously working with monkeys and rats in a wet lab and now working with Python and R in a dry lab. 
+A math major undergraduate who has passions in statistical gentics. Fearing of the Wisconsin's cold as well as fearing of debugging the code. Mommy of a cat. 
