@@ -19,17 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
-# [[item]]
-  # organization = "edX"
+[[item]]
+  organization = "University of Southern California"
   # organization_url = "https://www.edx.org"
-  # title = "Blockchain Fundamentals"
+  title = "Jennifer Battat Scholarship"
   # url = "https://www.edx.org/professional-certificate/# uc-berkeleyx-blockchain-fundamentals"
   # certificate_url = "https://www.edx.org"
-  # date_start = "2018-03-01"
+  date_start = "2020-06-15"
   # date_end = ""
-  # description = "Formulated informed blockchain models, hypotheses, and 
+  description = "Recognized exceptional transfer students majoring in Economics or Mathematics, honor academic and personal achievements and continued contributions as an outstanding member of the USC Dornsife student community"
   # use cases."
   
+[[item]]
+  organization = "University of Southern California"
+  title = "Provost's Research Fellowship"
+  date_start = "2019-09-03"
+  description = "Awarded 100 students at USC on excellent independent project with a faculty member"
 
-
+[[item]]
+  organization = "University of Wisconsin-Madison"
+  title = "Undergraduate Scholarship for Summer Study"
+  date_start = "2020-04-02"
+  description = "Honor undergraduate students with academic success, who enrolled in summer courses at UW-Madison"
 +++
