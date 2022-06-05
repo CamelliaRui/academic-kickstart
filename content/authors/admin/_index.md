@@ -9,7 +9,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student 
+role: PhD student in Biostatistics
 
 # Organizations/Affiliations
 organizations:
@@ -20,10 +20,10 @@ organizations:
 bio: 
 
 interests:
-- Genetic Epidemiology
-- Population Genetics, Statistical Genetics
-- Biostatistics
-- Bioinformatics
+- Statistical Genetics 
+- Population Genetics
+- Machine Learning
+
 
 education:
   courses:
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-A math major undergraduate who has passions in statistical gentics. Fearing of the Wisconsin's cold as well as fearing of debugging the code. Mommy of a cat. 
+I am a PhD student in Biostatistics at University of Southern California, working on statistical methods on elucidating genetic architecture of complex diseases with Prof. Nick Mancuso and Prof. Steven Gazal. During my undergraduate at USC, I served as a research assistant at center of genetic epidemiology, working on assessing the genotyping imputation quality of diverse populations worldwide with Prof. Charleston Chiang. 
