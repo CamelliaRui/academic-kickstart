@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: Biostatistics M.S.
-    institution: University of Wisconsin-Madison(transferred out)
+    institution: University of Southern California
     year: 2020-2022
   - course: Mathematics B.A.
     institution: University of Southern California
