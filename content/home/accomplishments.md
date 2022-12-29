@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   # certificate_url = "https://www.edx.org"
   date_start = "2022-08-01"
   # date_end = ""
-  description = "for incoming PhD students whose combination of background and training will make a substantive, documentable, and unique contribution to the program as assessed by faculty"
+  description = "For incoming PhD students whose combination of background and training will make a substantive, documentable, and unique contribution to the program as assessed by faculty"
   # use cases."
 
 [[item]]
