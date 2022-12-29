@@ -9,7 +9,4 @@
 	path = CamelliaRui.github.io
 	url = https://github.com/CamelliaRui/CamelliaRui.github.io.git
 	branch = master
-[submodule "public/CamelliaRui.github.io"]
-	path = public/CamelliaRui.github.io
-	url = https://github.com/CamelliaRui/CamelliaRui.github.io.git
-	branch = master
+
