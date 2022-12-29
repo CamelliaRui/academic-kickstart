@@ -85,9 +85,7 @@ date_format = "Jan 2006"
   description = """
 *  Helping with a research project on admixture mapping
 *  Running simulations of admixed populations using Msprime, pySlim and SLiM
-
-
-
+  """
 
  [[experience]]
   title = "Research Assistant"
@@ -101,8 +99,6 @@ date_format = "Jan 2006"
  *   Skills include using Python, R, Plink, and high performance computing in Linux system
  *   Mentoring two undergraduate students in the lab, providing hands-on experience on the research project
  *   Awarded Provost Research Fellowship in Fall 2020 and presented research progress during undergraduate poster session
-
-
   """
 
 +++
