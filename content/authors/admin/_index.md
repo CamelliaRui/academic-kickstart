@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in Biostatistics at University of Southern California, working on statistical methods on elucidating genetic architecture of complex diseases with Prof. Nick Mancuso and Prof. Steven Gazal. During my undergraduate at USC, I served as a research assistant at center of genetic epidemiology, working on assessing the genotyping imputation quality of diverse populations worldwide with Prof. Charleston Chiang. 
+I am a PhD student in Biostatistics at University of Southern California, working on statistical methods on elucidating genetic architecture of complex diseases with [Prof. Nick Mancuso](https://www.mancusolab.com/)and [Prof. Steven Gazal](https://gazal-lab.org/). During my undergraduate at USC, I served as a research assistant at center of genetic epidemiology, working on assessing the genotyping imputation quality of diverse populations worldwide with [Prof. Charleston Chiang](https://chianglab.usc.edu/). 
