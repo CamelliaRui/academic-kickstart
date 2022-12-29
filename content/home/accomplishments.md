@@ -22,6 +22,17 @@ date_format = "Jan 2006"
 [[item]]
   organization = "University of Southern California"
   # organization_url = "https://www.edx.org"
+  title = "Keck School of Medicine/Graduate School Fellowship"
+  # url = "https://www.edx.org/professional-certificate/# uc-berkeleyx-blockchain-fundamentals"
+  # certificate_url = "https://www.edx.org"
+  date_start = "2022-08-01"
+  # date_end = ""
+  description = "for incoming PhD students whose combination of background and training will make a substantive, documentable, and unique contribution to the program as assessed by faculty"
+  # use cases."
+
+[[item]]
+  organization = "University of Southern California"
+  # organization_url = "https://www.edx.org"
   title = "Jennifer Battat Scholarship"
   # url = "https://www.edx.org/professional-certificate/# uc-berkeleyx-blockchain-fundamentals"
   # certificate_url = "https://www.edx.org"
@@ -36,9 +47,4 @@ date_format = "Jan 2006"
   date_start = "2019-09-03"
   description = "Awarded 100 students at USC on excellent independent research project with a faculty member"
 
-[[item]]
-  organization = "University of Wisconsin-Madison"
-  title = "Undergraduate Scholarship for Summer Study"
-  date_start = "2020-04-02"
-  description = "Honor undergraduate students with academic success, who enrolled in summer courses at UW-Madison"
 +++
