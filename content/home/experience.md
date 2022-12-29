@@ -33,19 +33,8 @@ date_format = "Jan 2006"
 * Presenting research progress during undergraduate poster session
 
   """
-  [[experience]]
-  title = "Research Assistant"
-  company = "University of Wisconsin-Madison, Department of biochemistry"
-  company_url = ""
-  location = "Wisconsin"
-  date_start = "2018-12-01"
-  date_end = "2019-05-01"
-  description = """
-  Responsibilities include:
+
   
-* Working in a research lab about researching fat metabolism on rats
-* DNA extraction and PCR techniques
-  """
 [[experience]]
   title = "Undergraduate Research Leader"
   company = "University of Wisconsin-Madison"

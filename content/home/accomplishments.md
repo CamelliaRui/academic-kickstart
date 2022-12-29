@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   organization = "University of Southern California"
   title = "Provost's Research Fellowship"
   date_start = "2019-09-03"
-  description = "Awarded 100 students at USC on excellent independent project with a faculty member"
+  description = "Awarded 100 students at USC on excellent independent research project with a faculty member"
 
 [[item]]
   organization = "University of Wisconsin-Madison"
