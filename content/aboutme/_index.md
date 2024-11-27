@@ -33,7 +33,7 @@ Beyond research experience, I also love to volunteer. I did medical volunteering
   <figcaption>Medical Volunteer</figcaption>
 </center>
 
-Talking about what I’m doing, my group has two members. Me and my cat Pork chop. He has earned a dual master degree in Meowology and  Purrology in 2022. His major role in the group is emotional support and strengthen my skills on housework. He is quite narcissistic and believes all things are empty-Nothing is born, nothing dies, nothing is pure, nothing is stained, nothing increases and nothing decreases.
+In my free time, I enjoy spending time with my cat, Pork Chop. In 2022, he proudly earned dual master’s degrees in Meowology and Purrology. His primary role in our little team is to provide emotional support and help enhance my focus and concentration skills.
 
 <center>
   <img src="cat.JPG">

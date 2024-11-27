@@ -29,7 +29,7 @@ education:
   courses:
   - course: Biostatistics Ph.D
     institution: University of Southern California
-    year: 2022-2027(exp)
+    year: 2022-Present
   - course: Biostatistics M.S.
     institution: University of Southern California
     year: 2020-2022
@@ -59,9 +59,9 @@ social:
   icon_pack: ai
   link: file/cv.pdf
 
-- icon: researchgate
+- icon: google-scholar
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Camellia_Rui
+  link: https://scholar.google.com/citations?user=P0Izh5IAAAAJ&hl=en
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in Biostatistics at University of Southern California, working on statistical methods on elucidating genetic architecture of complex diseases with [Prof. Nick Mancuso](https://www.mancusolab.com/) 
-and [Prof. Steven Gazal](https://gazal-lab.org/). During my undergraduate at USC, I served as a research assistant at center of genetic epidemiology, working on assessing the genotyping imputation quality of diverse populations worldwide with [Prof. Charleston Chiang](https://chianglab.usc.edu/). 
+I am a PhD student in Biostatistics at University of Southern California, working on developing machine learning and statistical methods on elucidating genetic architecture of complex diseases with [Prof. Nick Mancuso](https://www.mancusolab.com/) 
+and [Prof. Steven Gazal](https://gazal-lab.org/). During my undergraduate at USC, I served as a research assistant at center of genetic epidemiology, working on developing statistical analysis pipeline to assess the genotyping imputation quality of diverse populations worldwide with [Prof. Charleston Chiang](https://chianglab.usc.edu/). 
 
-May or may not be reached at crui@usc.edu since I have a cat to take care of...
+I'm passioante about applying cutting edge machine learning/statistical methods in industry. Actively looking for 2025 summer intern opportunties! Happy to connect via LinkedIn, and may be reached at crui@usc.edu.
