@@ -1,37 +1,37 @@
 ---
-title: Imputation accuracy across global human populations
+title: "Imputation accuracy across global human populations"
 
 authors:
+  - admin
   - Jordan Cahoon
-  - Xinyue Rui
   - et al.
 
+author_notes:
+  - "Second Author"
+
+# Publication type
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
-# Publication details
 publication: "American Journal of Human Genetics"
 publication_short: "AJHG"
 
-# Dates
-date: "2024-05-02"
-publishDate: "2024-05-02"
+date: "2023-09-01"
+publishDate: "2023-09-01"
 
-# DOI
-doi: "10.1016/j.ajhg.2024.02.012"
+doi: "10.1016/j.ajhg.2023.09.012"
 
-# The rest of your content looks good!
-#abstract: "Genotype imputation is now fundamental..."
+abstract: "Genotype imputation is now fundamental..."
 
 featured: true
 
 links:
   - name: "Paper"
-    url: "https://www.cell.com/ajhg/fulltext/S0002-9297(24)00084-3"
+    url: "https://www.cell.com/ajhg/fulltext/S0002-9297(23)00325-7"
 
 url_pdf: ""
 url_code: ""
 url_dataset: ""
-
-# View settings can be removed from individual paper index.md
-# as they're controlled by _index.md
 ---

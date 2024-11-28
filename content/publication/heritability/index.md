@@ -9,7 +9,7 @@ authors:
 
 author_notes:
   - ""
-  - "First Author"
+  - "Second Author"
   - ""
 
 publication_types: ["2"]
