@@ -22,7 +22,7 @@ jobs:
           git submodule sync
           git submodule update --init --recursive
           cd themes/academic
-          git checkout master
+          git checkout main  # Changed from master to main
           git pull
 
       - name: Setup Hugo
