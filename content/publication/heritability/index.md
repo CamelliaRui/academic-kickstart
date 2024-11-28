@@ -1,10 +1,16 @@
 ---
-title: Estimating heritability explained by local ancestry and evaluating stratification bias in admixture mapping from summary statistics
+title: "Estimating heritability explained by local ancestry and evaluating stratification bias in admixture mapping from summary statistics"
 
 authors:
+  - admin
   - Tsz Fung Chan
   - Xinyue Rui
   - et al.
+
+author_notes:
+  - ""
+  - "First Author"
+  - ""
 
 publication_types: ["2"]
 
@@ -13,14 +19,14 @@ publication: "American Journal of Human Genetics"
 publication_short: "AJHG"
 
 # Dates
-date: "2024-05-02"
-publishDate: "2024-05-02"
+date: "2023-09-01"
+publishDate: "2023-09-01"
 
 # DOI
 doi: "10.1016/j.ajhg.2023.09.012"
 
-# The rest of your content looks good!
-#abstract: "Genotype imputation is now fundamental..."
+# Abstract
+abstract: "Add your abstract here..."
 
 featured: true
 
