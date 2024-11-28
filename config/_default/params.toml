@@ -268,13 +268,7 @@ plugins_js  = []
   zoom = 15
 
 ############################
-## Marketing
-############################
-[marketing]
-  google_analytics = ""
-  google_tag_manager = ""
 
-############################
 ## Content Management System
 ############################
 [cms]
