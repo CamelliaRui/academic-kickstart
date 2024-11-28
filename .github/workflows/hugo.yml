@@ -1,52 +1,29 @@
-name: Deploy Hugo site to Pages
+name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: ["master"]
+    branches:
+      - master
   workflow_dispatch:
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Update theme
-        run: |
-          git submodule sync
-          git submodule update --init --recursive
-          cd themes/academic
-          git checkout main  # Changed from master to main
-          git pull
-
+      - uses: actions/checkout@v4
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.68.3'
+          hugo-version: 'latest'
           extended: true
-
+      
       - name: Build
-        run: |
-          hugo --minify
-        
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
-        with:
-          path: ./public
+        run: hugo --minify
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2
+      - name: Deploy to GitHub Pages repository
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: CamelliaRui/CamelliaRui.github.io
+          publish_branch: master
+          publish_dir: ./public
