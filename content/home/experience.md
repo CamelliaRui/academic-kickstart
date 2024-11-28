@@ -26,8 +26,10 @@ date_format = "Jan 2006"
   company_url = "https://chianglab.usc.edu/"
   location = "Los Angeles, California"
   date_start = "2020-06-18"
-  description = """*  Helping with a research project on admixture mapping
-*  Running simulations of admixed populations using Msprime, pySlim and SLiM"""
+  description = """
+  *  Helping with a research project on admixture mapping
+  *  Running simulations of admixed populations using Msprime, pySlim and SLiM
+  """
 
 [[experience]]
   title = "Research Assistant"
