@@ -1,9 +1,6 @@
 ---
 # Display name
-title: Camellia(Xinyue) Rui
-# Username (this should match the folder name)
-authors:
-- admin
+title: Xinyue(Camellia) Rui
 
 # Is this the primary user of the site?
 superuser: true
