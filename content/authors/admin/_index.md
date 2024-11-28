@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xinyue(Camellia) Rui
+title: Xinyue (Camellia) Rui
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: "I am a PhD student in Biostatistics at USC, working on developing machine learning and statistical methods for genetic architecture of complex diseases."
 
 interests:
 - Statistical Genetics 
@@ -67,10 +67,9 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
 I am a PhD student in Biostatistics at University of Southern California, working on developing machine learning and statistical methods on elucidating genetic architecture of complex diseases with [Prof. Nick Mancuso](https://www.mancusolab.com/) 
 and [Prof. Steven Gazal](https://gazal-lab.org/). During my undergraduate at USC, I served as a research assistant at center of genetic epidemiology, working on developing statistical analysis pipeline to assess the genotyping imputation quality of diverse populations worldwide with [Prof. Charleston Chiang](https://chianglab.usc.edu/). 
 
-I'm passioante about applying cutting edge machine learning/statistical methods in industry. Actively looking for 2025 summer intern opportunties! Happy to connect via LinkedIn, and may be reached at crui@usc.edu.
+I'm passionate about applying cutting edge machine learning/statistical methods in industry. Actively looking for 2025 summer intern opportunities! Happy to connect via LinkedIn, and may be reached at crui@usc.edu.
