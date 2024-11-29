@@ -36,6 +36,6 @@ Beyond research experience, I also love to volunteer. I did medical volunteering
 In my free time, I enjoy spending time with my cat, Pork Chop. In 2022, he proudly earned dual master’s degrees in Meowology and Purrology. His primary role in our little team is to provide emotional support and help enhance my focus and concentration skills.
 
 <center>
-  <img src="./cat.jpg">
+  <img src="./cat.JPG">
   <figcaption>Pork chop, M.S. in Meowology and Purrology</figcaption>
 </center>
