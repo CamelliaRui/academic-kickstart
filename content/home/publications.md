@@ -66,3 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+{{% alert note %}}
+View [recent publications]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}}

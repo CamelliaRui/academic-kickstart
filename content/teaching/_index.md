@@ -1,18 +1,7 @@
-+++
-# A Teaching Experience section created with the Pages widget.
-
-widget = "custom"  # Use a custom widget for teaching content.
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
-
-title = "Teaching Experience"
-subtitle = ""
-
-[advanced]
- css_style = ""
- css_class = ""
-+++
+---
+title: "Teaching Experience"
+type: "teaching"
+---
 
 ### Graduate Teaching Assistant
 **PM 520: Advanced Statistical Computing**  

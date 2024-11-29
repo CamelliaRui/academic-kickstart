@@ -41,5 +41,23 @@ authors:
 date: "2024-05-02"  # Update with actual publication date
 
 # Featured?
-featured: true
+featured: false
 ---
+
+### Journal Articles
+
+1. **Imputation accuracy across global human populations** (2024)  
+   Authors: Jordan L.Cahoon, Xinyue Rui et al. 
+   Journal: American Journal of Human Genetics, 111(5), 979-989  
+   [View Publication](https://www.cell.com/action/showPdf?pii=S0002-9297%2824%2900084-3) 
+
+2. **Estimating heritability explained by local ancestry and evaluating stratification bias in admixture mapping from summary statistics** (2023)  
+   Authors: Tsz Fung Chan, Xinyue Rui et al.  
+   Journal: American Journal of Human Genetics, 110 (11), 1853-1862 
+   [View Publication](https://www.cell.com/action/showPdf?pii=S0002-9297%2823%2900325-7)
+
+### Conference Abstracts
+
+1. **scFM: An efficient statistical fine-mapping approach for eQTLs using large-scale single-cell data** (2024)  
+   Authors: Xinyue Rui, Zeyun Lu, Eleanor Zhang, Steven Gazal, Nicholas Mancuso 
+   Conference: American Society of Human Genetics Annual Meeting, Denver, CO 

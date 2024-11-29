@@ -22,20 +22,20 @@ When I transferred to USC at 2019, I decided to develop my strength in mathemati
 At 2022, I graduated with a bachelor in Mathematics with and a master in Biostatistics at USC. At the same time, I started my PhD in Biostatistics at USC and was selected for Keck School of Medicine Fellowship. I have a lot passion and interests in statistical genetics, and determined to develop statistical tool that better infer the disease mechanism from genetic architecture. I am very fortunate to be co-advised by Prof. Nicholas Mancuso and Prof. Steven Gazal, who were very supportive on my research and career development. 
 
 <center>
-  <img src="grad.jpg">
+  <img src="./grad.jpg">
   <figcaption>Graduation</figcaption>
 </center>
 
 Beyond research experience, I also love to volunteer. I did medical volunteering in global brigades during January 2019 in Honduras and January 2020 in Panama, where I established my entry-level Spanish proficiency. While helping people in the rural area of Honduras and Panama, I realized the huge gap of medical and public health resources between rural and urban, developing country and developed country. I always bear in mind that there are people in need of help and, we, as public health researchers, can utilize our strength and expertise to save them. It is the motivation of all of what I’m doing.
 
 <center>
-  <img src="volunteer.jpg">
+  <img src="./volunteer.jpg">
   <figcaption>Medical Volunteer</figcaption>
 </center>
 
 In my free time, I enjoy spending time with my cat, Pork Chop. In 2022, he proudly earned dual master’s degrees in Meowology and Purrology. His primary role in our little team is to provide emotional support and help enhance my focus and concentration skills.
 
 <center>
-  <img src="cat.JPG">
+  <img src="./cat.jpg">
   <figcaption>Pork chop, M.S. in Meowology and Purrology</figcaption>
 </center>
